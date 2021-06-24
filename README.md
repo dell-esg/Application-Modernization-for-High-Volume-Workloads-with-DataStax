@@ -1,5 +1,5 @@
 
-This README explains the YAML configuration files included in the associated directory, which are referenced in the white paper entitled "Application Modernization with Apache Cassandra Database for High-Volume Workloads". The white paper, jointly written by DataStax, Dell Technologies, and Intel, can be found on the Dell Technologies Info Hub for Data Analytics located here: 
+This README explains the YAML configuration files included in the associated directory, which are referenced in the white paper entitled "Application Modernization for High-Volume Workloads with DataStax". The white paper, jointly written by DataStax, Dell Technologies, and Intel, can be found on the Dell Technologies Info Hub for Data Analytics located here: 
 https://infohub.delltechnologies.com/t/data-analytics/. 
 
 
